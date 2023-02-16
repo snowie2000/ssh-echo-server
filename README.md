@@ -1,5 +1,5 @@
 # ssh-echo-server
-Echoes your password back so that you know what's saved in your long lost profile.
+Echoes your password back so that you know what's saved in your aged profile.
 
 # Usage
 Download the file from the release section and run it.
